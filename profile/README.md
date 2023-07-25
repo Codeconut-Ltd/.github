@@ -1,4 +1,8 @@
-# Web Application Development / Graphics Design
+![Codeconut Ltd.](teaser.png)
 
-Let's get [in touch](https://github.com/ChristianOellers)!
+# Codeconut Ltd
 
+Full Stack Development - Based in Cyprus.
+
+- [Website](https://www.codeconut.io)
+- [Profile](https://github.com/ChristianOellers)
