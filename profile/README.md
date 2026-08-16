@@ -2,11 +2,15 @@
 
 # Codeconut Ltd
 
-Internal yet publicly shared projects.
+Full Stack Development - Based in Cyprus.
 
-## About
-
-Full Stack Development based in sunny Cyprus.
-
-- [Website](https://www.codeconutltd.com)
+- [Website](https://www.codeconut.io)
 - [Profile](https://github.com/ChristianOellers)
+
+---
+
+## Open Source
+
+Find projects and contributions here:
+
+- [GitHub](https://github.com/TheRemoteCoder)
