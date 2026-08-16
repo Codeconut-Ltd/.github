@@ -4,13 +4,11 @@
 
 Full Stack Development - Based in Cyprus.
 
-- [Website](https://www.codeconut.io)
-- [Profile](https://github.com/ChristianOellers)
-
----
+- [Website](https://www.codeconutltd.com)
+- [Personal profile](https://github.com/ChristianOellers)
 
 ## Open Source
 
-Find projects and contributions here:
+Projects and contributions:
 
 - [GitHub](https://github.com/TheRemoteCoder)
