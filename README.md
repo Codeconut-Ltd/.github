@@ -1,6 +1,6 @@
 ![Codeconut Ltd.](teaser.png)
 
-# Codeconut Ltd
+# Codeconut Ltd.
 
 Full Stack Development - Based in Cyprus.
 
