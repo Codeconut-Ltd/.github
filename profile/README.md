@@ -1,14 +1,16 @@
 ![Codeconut Ltd.](teaser.png)
 
-# Codeconut Ltd
+# Codeconut Ltd.
 
 Full Stack Development - Based in Cyprus.
 
 - [Website](https://www.codeconutltd.com)
-- [Personal profile](https://github.com/ChristianOellers)
+- [Profile](https://github.com/ChristianOellers)
+
+---
 
 ## Open Source
 
-Projects and contributions:
+Find projects and contributions here:
 
 - [GitHub](https://github.com/TheRemoteCoder)
