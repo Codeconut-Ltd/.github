@@ -1,6 +1,6 @@
-![Codeconut Ltd.](teaser.png)
+![Codeconut Ltd.](teaser.svg)
 
-# Codeconut Ltd.
+# Codeconut LTD
 
 Full Stack Development - Based in Cyprus.
 
@@ -14,4 +14,3 @@ Full Stack Development - Based in Cyprus.
 Find projects and contributions here:
 
 - [GitHub](https://github.com/TheRemoteCoder)
-
